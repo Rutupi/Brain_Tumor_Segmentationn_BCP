@@ -2,7 +2,7 @@
 
 In this week we dive into more specific libraries like Nibabel and Tensorflow/Keras.
 
-***References***
+***References*** <br>
 [Tensorflow Tutorial](https://www.geeksforgeeks.org/deep-learning/tensorflow/) <br>
 [Keras Tutorial](https://www.geeksforgeeks.org/deep-learning/keras-tutorial/) <br>
 [Nibabel Tutorial](https://peerherholz.github.io/workshop_weizmann/data/image_manipulation_nibabel.html) <br>
